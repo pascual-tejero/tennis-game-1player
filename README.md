@@ -19,9 +19,7 @@ This project is a single-player tennis game developed in Java. The game features
 <div style="display: flex; justify-content: center;">
     <img src="img/game-start.png" alt="Game Start" style="width: 45%;">
     <img src="img/game-end.png" alt="Game End" style="width: 45%;">
-</div>
-- These visual elements add to the immersion and appeal of the game.
-  
+</div> 
 
 ## How to Run
 To run the game, navigate to ```src/juego``` and execute ```Game.java```.
